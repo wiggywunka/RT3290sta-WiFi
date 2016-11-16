@@ -15,7 +15,7 @@
 
 ### What now? ###
 
-To install the driver just run
+To install the driver just
 run ```sh install.sh ``` in an elevated prompt (via sudo or su), and
 the script SHOULD hopefully take care of everything.
 
